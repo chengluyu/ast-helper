@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) **and modified according to my preference**.
+
+## What's Included
+
+* Prettier (2 space indent, print width of 100 characters, single quote, semicolon and trailing comma)
+* ESLint with plugins of TypeScript, React and Prettier
+* Turn on all strict type-checking options in tsconfig.json
+* Use Sass as CSS pre-processor
+* Removed the spinning React logo in App.tsx and related CSS and SVG
+* EditorConfig (insert new line at EOF and trim trailing spaces except for markdown files)
 
 ## Available Scripts
 
